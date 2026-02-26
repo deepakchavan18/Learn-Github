@@ -1,0 +1,6 @@
+
+reports
+logs
+.venv
+**/*.pyc
+
